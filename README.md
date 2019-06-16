@@ -1,4 +1,4 @@
-# HackerrankSolutians
+# HackerrankSolutions
 
 
 ## Code
